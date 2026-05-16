@@ -84,11 +84,14 @@ me.say_hi()
 
 <div align="center">
 
-[![data-structure](https://github-readme-stats.vercel.app/api/pin/?username=alif6280&repo=data-structure&hide_border=true&bg_color=f0f4ff&title_color=4361ee&text_color=3a3f58&icon_color=4361ee&border_radius=12)](https://github.com/alif6280/data-structure)
-[![C-Projects](https://github-readme-stats.vercel.app/api/pin/?username=alif6280&repo=C-Projects&hide_border=true&bg_color=f0f4ff&title_color=4361ee&text_color=3a3f58&icon_color=4361ee&border_radius=12)](https://github.com/alif6280/C-Projects)
-
-[![Java-Project](https://github-readme-stats.vercel.app/api/pin/?username=alif6280&repo=Java-Project&hide_border=true&bg_color=f0f4ff&title_color=4361ee&text_color=3a3f58&icon_color=4361ee&border_radius=12)](https://github.com/alif6280/Java-Project)
-[![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=alif6280&repo=portfolio&hide_border=true&bg_color=f0f4ff&title_color=4361ee&text_color=3a3f58&icon_color=4361ee&border_radius=12)](https://github.com/alif6280/portfolio)
+| 🗂️ Repository | 🔤 Language | 🔗 Link |
+|---|---|---|
+| **data-structure** | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/alif6280/data-structure) |
+| **C-Projects** | ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) | [View →](https://github.com/alif6280/C-Projects) |
+| **Java-Project** | ![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white) | [View →](https://github.com/alif6280/Java-Project) |
+| **DLD-Lab** | ![Digital Logic](https://img.shields.io/badge/Digital%20Logic-4361ee?style=flat-square) | [View →](https://github.com/alif6280/DLD-Lab) |
+| **portfolio** | ![HTML](https://img.shields.io/badge/HTML-e44b23?style=flat-square&logo=html5&logoColor=white) | [View →](https://github.com/alif6280/portfolio) |
+| **C-** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | [View →](https://github.com/alif6280/C-) |
 
 </div>
 
