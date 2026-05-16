@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4361ee,100:7209b7&height=220&section=header&fontSize=0" />
 
-<img src="https://avatars.githubusercontent.com/u/210209185?v=4" width="200" height="200" style="border-radius: 50%; margin-top: -100px; border: 6px solid white;" />
+<img src="https://avatars.githubusercontent.com/u/210209185?v=4" width="200" height="200" style="border-radius: 50%; border: 6px solid white;" />
 
 <h1>Md. Montasir Monir Alif</h1>
 
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=600&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Alif;CS+Student+%7C+Code+Enthusiast+%F0%9F%9A%80;Building+things+one+line+at+a+time+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=22&duration=3000&pause=1000&color=4361EE&center=true&vCenter=true&width=620&height=60&lines=Hello+World!+%F0%9F%91%8B+I'm+Alif;CS+Student+%7C+Code+Enthusiast+%F0%9F%9A%80;Building+things+one+line+at+a+time+%F0%9F%92%BB;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/alif6280?label=Followers&style=for-the-badge&color=4361ee)
 &nbsp;
-![GitHub stars](https://img.shields.io/github/stars/alif6280?label=Stars&style=for-the-badge&color=7209b7)
+![Contributions](https://img.shields.io/badge/Contributions-83-7209b7?style=for-the-badge)
 
 </div>
 
@@ -32,14 +32,15 @@
 
 ```python
 class Developer:
-    name       = "Md. Montasir Monir Alif"
-    username   = "alif6280"
-    role       = "CS Student 🎓"
-    languages  = ["C", "C++", "Python", "Java", "HTML", "CSS"]
-    interests  = ["DSA", "OOP", "Systems Programming", "Web Dev"]
-    currently  = "Learning Data Structures & Algorithms 📚"
-    goal       = "Become a skilled Software Engineer 🚀"
-    location   = "Bangladesh 🇧🇩"
+    name        = "Md. Montasir Monir Alif"
+    username    = "alif6280"
+    role        = "CS Student 🎓"
+    languages   = ["C", "C++", "Python", "Java", "HTML", "CSS"]
+    interests   = ["DSA", "OOP", "Systems Programming", "Web Dev"]
+    latest_work = "SmartSurgery 🏥 — AI-powered surgical assistant"
+    currently   = "Learning DSA & Algorithms 📚"
+    goal        = "Become a skilled Software Engineer 🚀"
+    location    = "Bangladesh 🇧🇩"
 
     def say_hi(self):
         print("Thanks for visiting! Let's build something great. 💙")
@@ -84,14 +85,16 @@ me.say_hi()
 
 <div align="center">
 
-| 🗂️ Repository | 🔤 Language | 🔗 Link |
-|---|---|---|
-| **data-structure** | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/alif6280/data-structure) |
-| **C-Projects** | ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) | [View →](https://github.com/alif6280/C-Projects) |
-| **Java-Project** | ![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white) | [View →](https://github.com/alif6280/Java-Project) |
-| **DLD-Lab** | ![Digital Logic](https://img.shields.io/badge/Digital%20Logic-4361ee?style=flat-square) | [View →](https://github.com/alif6280/DLD-Lab) |
-| **portfolio** | ![HTML](https://img.shields.io/badge/HTML-e44b23?style=flat-square&logo=html5&logoColor=white) | [View →](https://github.com/alif6280/portfolio) |
-| **C-** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | [View →](https://github.com/alif6280/C-) |
+| 🚀 Repository | 💬 About | 🔤 Language | 🔗 |
+|---|---|---|---|
+| **SmartSurgery** | AI-powered surgical assistant app | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/alif6280/SmartSurgery) |
+| **data-structure** | DSA implementations & solutions | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/alif6280/data-structure) |
+| **DAA** | Design & Analysis of Algorithms | ![Code](https://img.shields.io/badge/Algorithm-4361ee?style=flat-square) | [View →](https://github.com/alif6280/DAA) |
+| **C-Projects** | Low-level systems programming | ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) | [View →](https://github.com/alif6280/C-Projects) |
+| **Java-Project** | Java apps & OOP exercises | ![Java](https://img.shields.io/badge/Java-b07219?style=flat-square&logo=java&logoColor=white) | [View →](https://github.com/alif6280/Java-Project) |
+| **DLD-Lab** | Digital Logic Design lab work | ![Logic](https://img.shields.io/badge/Digital%20Logic-7209b7?style=flat-square) | [View →](https://github.com/alif6280/DLD-Lab) |
+| **portfolio** | Personal portfolio website | ![HTML](https://img.shields.io/badge/HTML-e44b23?style=flat-square&logo=html5&logoColor=white) | [View →](https://github.com/alif6280/portfolio) |
+| **C-** | C programming fundamentals | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) | [View →](https://github.com/alif6280/C-) |
 
 </div>
 
