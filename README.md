@@ -87,7 +87,7 @@ me.say_hi()
 
 | 🚀 Repository | 💬 About | 🔤 Language | 🔗 |
 |---|---|---|---|
-| **SmartSurgery** | AI-powered surgical assistant app | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=java&logoColor=white) | [View →](https://github.com/alif6280/SmartSurgery) |
+| **SmartSurgery** | AI-powered surgical assistant app | ![Java](https://img.shields.io/badge/Java-3572A5?style=flat-square&logo=Java&logoColor=white) | [View →](https://github.com/alif6280/SmartSurgery) |
 | **data-structure** | DSA implementations & solutions | ![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white) | [View →](https://github.com/alif6280/data-structure) |
 | **DAA** | Design & Analysis of Algorithms | ![Code](https://img.shields.io/badge/Algorithm-4361ee?style=flat-square) | [View →](https://github.com/alif6280/DAA) |
 | **C-Projects** | Low-level systems programming | ![C++](https://img.shields.io/badge/C++-f34b7d?style=flat-square&logo=cplusplus&logoColor=white) | [View →](https://github.com/alif6280/C-Projects) |
